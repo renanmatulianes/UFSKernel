@@ -4,7 +4,7 @@
 typedef unsigned int uint32_t;
 
 // frequencia das interrupcoes (Hz)
-#define SYSTEM_HZ 10
+#define SYSTEM_HZ 2
 
 static inline uint32_t read_cntfrq(void);
 
